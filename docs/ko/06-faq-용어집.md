@@ -5,7 +5,7 @@
 ## ❓ FAQ
 
 **Q1. Tasmota 기기가 대시보드에 안 떠요**  
-A1. MQTT의 User=Topic 일치 여부, Port 8883 확인, Wi-Fi 연결 상태를 점검하세요.
+A1. MQTT의 User=Topic 일치 여부, Port 18883 확인, mqtt tls 체크 표시, Wi-Fi 연결 상태를 점검하세요.
 
 **Q2. 기기가 오프라인으로 표시돼요**  
 A2. 전원 확인, 공유기 재부팅, 기기와 공유기 간 거리를 좁혀보세요.
