@@ -18,7 +18,7 @@ Choose your language:
 
 ## 🛠️ Quick Start
 1. Flash Tasmota firmware to your device.
-2. Configure MQTT with **Port 8883** and match **User = Topic**.
+2. Configure MQTT with **Port 18883** and match **User = Topic**.
 3. Connect to TasMind dashboard and start automating.
 
 ## 📜 License
