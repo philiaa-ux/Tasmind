@@ -5,7 +5,7 @@
 > 🚀 One platform, infinite possibilities. Control any environment with AI.
 
 ## ✨ Key Features
-- 🔌 **Tasmota Integration** – Secure MQTT over TLS (Port 8883)
+- 🔌 **Tasmota Integration** – Secure MQTT over TLS (Port 18883)
 - 📊 **Web Dashboard** – Real-time control, sensor charts, and rule automation
 - 📱 **Mobile App** – Remote control with FCM push notifications
 - 🤖 **AI Agent** – Natural language interaction with self-critique security
